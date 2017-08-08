@@ -1,5 +1,7 @@
 <?php
+session_start()
 
+// connect to database
 
 
 ?>
@@ -17,11 +19,11 @@
 </head>
 <body>
 <div class="header">
-	<h1>Registration Heres</h1>
+	<h1 style="text-align: center;">Registration Heres</h1>
 </div>
 
-<form method="post" action="register.php">
-	<table>
+<form method="post" action="register.php" style="padding-top: 80px;">
+	<table style="margin-left: 300px;">
 		<tr>
 			<td>UserName:</td>
 			<td><input type="text" name="username" class="textinput"></td>
