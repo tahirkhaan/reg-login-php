@@ -4,7 +4,7 @@ $serverName = "localhost";
 
 $username = "root";
 $password = "";
-$db = "";
+$db = "reg_login";
 $port = "3306";
 
 
