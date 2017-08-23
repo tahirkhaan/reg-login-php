@@ -1,10 +1,4 @@
-<?php
-session_start()
 
-// connect to database
-
-
-?>
 <!DOCTYPE html>
 <html>
 <head>
